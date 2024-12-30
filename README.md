@@ -1,3 +1,11 @@
+# Run the code 
+```
+npm i
+npm run dev
+```
+
+
+
 # React router dom
 ## Starting 
 ```
